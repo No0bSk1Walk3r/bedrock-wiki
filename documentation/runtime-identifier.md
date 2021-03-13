@@ -62,6 +62,7 @@ Perfect for imitating a block, as long as the player is in Adventure Mode.
  - Disables entity shadows
  - Punching the entity will cause it to instantly despawn
  - Equipment placeable on/removable from entity
+ - Killing the entity will make it drop the item "Armor Stand"
 
 ---
 ## minecraft:iron_golem
